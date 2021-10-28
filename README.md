@@ -1,4 +1,4 @@
-Olá! <b>Sou o Josias Monteiro<b>. 👋
+Olá! <b>Sou o Josias Monteiro</b>. 👋
 
 Dourados, Mato Grosso do Sul, Brasil / Porto, Portugal. 🇧🇷/🇵🇹 <br>
 Analista e Desenvolvedor de Sistemas. 💻<br>
